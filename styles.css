@@ -1,0 +1,27 @@
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+ background-color: white;  
+ border: 0; 
+}
+.categories img{
+    width: 90px;
+}
+.carousel-slide {
+    background-color: wheat;
+}
+.carousel-slide2{
+    background-color: thistle;
+}
+.carousel-slide3{
+    background-color:lightgray;
+}
+.carousel-slide7 .carousel-item{
+    border-radius: 2%;
+}
+.main-point{
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0; 
+}
